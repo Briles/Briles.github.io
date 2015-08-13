@@ -1,0 +1,14 @@
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+*.scss
+*.js
+*.jade
+
+!*.min.*
+
+# Grunt & npm
+gruntfile.js
+package.json
+/node_modules/
