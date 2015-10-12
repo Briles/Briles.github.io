@@ -5,6 +5,7 @@
 *.scss
 *.js
 *.jade
+*.slim
 
 !*.min.*
 
@@ -12,3 +13,8 @@
 gruntfile.js
 package.json
 /node_modules/
+
+# directories
+/templates/
+/assets/css/
+/assets/js/
