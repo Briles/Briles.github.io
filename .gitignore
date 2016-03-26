@@ -14,6 +14,7 @@ data.json
 gruntfile.js
 package.json
 /node_modules/
+debug.log
 
 # directories
 /templates/
